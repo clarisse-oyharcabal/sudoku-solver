@@ -140,4 +140,3 @@ Il constitue désormais une base solide pour la réalisation future de projets p
 
 Réalisé par : Clarisse Oyharçabal  
 Bachelor Intelligence Artificielle & Data Analytics – 1ère année  
-[LinkedIn]([https://www.linkedin.com/in/clarisseoyhar%C3%A7abal/]) 
