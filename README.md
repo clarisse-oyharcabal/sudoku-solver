@@ -138,6 +138,5 @@ Ce projet m’a permis de renforcer concrètement mes compétences en :
 
 Il constitue désormais une base solide pour la réalisation future de projets plus complexes en Intelligence Artificielle, algorithmique avancée, et visualisation interactive.
 
-Réalisé par : [Ton Nom]  
+Réalisé par : Clarisse Oyharçabal  
 Bachelor Intelligence Artificielle & Data Analytics – 1ère année  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
