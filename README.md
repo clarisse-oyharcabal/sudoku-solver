@@ -1,9 +1,9 @@
-# 🧠 Sudoku Solver
+# Sudoku Solver
 Bienvenue dans **Sudoku Solver**, un projet Python ambitieux réalisé dans le cadre de ma formation en **Bachelor Intelligence Artificielle & Data Analytics**.
 
 Ce projet propose une solution complète et interactive pour résoudre des grilles de Sudoku grâce à deux algorithmes puissants : la **Force Brute** et le **Backtracking**. Il comprend également une analyse approfondie des performances des deux approches, ainsi qu'une interface graphique dynamique réalisée avec **Pygame** pour visualiser les résultats de façon claire et intuitive.
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 Implémenter et comparer deux algorithmes fondamentaux de résolution de Sudoku :
 
 - Force brute
@@ -17,7 +17,7 @@ Documenter intégralement et clairement l'ensemble du projet.
 
 Structurer le projet de manière professionnelle et modulaire.
 
-## 📂 Structure détaillée du projet
+## Structure détaillée du projet
 ```bash
 sudoku-solver/
 ├── core/
@@ -40,9 +40,9 @@ sudoku-solver/
 └── README.md                # Documentation intégrale du projet
 ```
 
-## 🧩 Algorithmes implémentés
+## Algorithmes implémentés
 
-### 🔄 Force Brute
+### Force Brute
 Principe : Parcourt toutes les combinaisons possibles jusqu'à trouver une solution valide.
 
 Complexité : exponentielle (O(9^(n²)))
@@ -51,7 +51,7 @@ Avantages : Facile à comprendre et implémenter
 
 Inconvénients : Temps de résolution très élevé pour les grilles complexes
 
-### 🔍 Backtracking (Retour sur trace)
+### Backtracking (Retour sur trace)
 Principe : Choisit des chiffres valides récursivement, revient en arrière si nécessaire.
 
 Complexité : beaucoup plus efficace (O(n^k) selon les cas)
@@ -68,7 +68,7 @@ Inconvénients : Nécessite une gestion intelligente de la récursivité
 
 Conclusion : Le Backtracking est significativement plus performant et recommandé pour ce type de problème.
 
-## 🖥️ Interface terminale
+## Interface terminale
 Exécution via terminal, avec affichage clair des résultats :
 
 - Différenciation visuelle entre chiffres initiaux (en gras) et chiffres générés
@@ -79,7 +79,7 @@ Exécution via terminal, avec affichage clair des résultats :
 python main_terminal.py
 ```
 
-## 🎨 Interface graphique interactive (Pygame)
+## Interface graphique interactive (Pygame)
 Une visualisation interactive, ergonomique et pédagogique du Sudoku :
 
 - Choix parmi 5 grilles de difficulté croissante
@@ -93,7 +93,7 @@ Exécution :
 python main_interface.py
 ```
 
-## 🧪 Grilles de test fournies
+## Grilles de test fournies
 Le projet inclut 5 grilles test dans sudokus/ pour évaluer et démontrer les capacités des algorithmes :
 
 - exemple1.txt – Facile
@@ -118,7 +118,7 @@ Quelques ressources clés explorées et utilisées dans le cadre du projet :
 - [Analyse de complexité – Mon Lycée Numérique](http://www.monlyceenumerique.fr/nsi_premiere/algo_a/a2_complexite.php)
 - [Documentation officielle Pygame](https://www.pygame.org/wiki/GettingStarted)
 
-## 🚀 Installation et prérequis
+## Installation et prérequis
 Cloner ce dépôt puis installer les dépendances nécessaires :
 
 ```bash
@@ -127,7 +127,7 @@ cd sudoku-solver
 pip install -r requirements.txt
 ```
 
-## 🏁 Conclusion & perspectives
+## Conclusion & perspectives
 Ce projet m’a permis de renforcer concrètement mes compétences en :
 
 - Algorithmique avancée
