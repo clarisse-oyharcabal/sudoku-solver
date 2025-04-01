@@ -1,4 +1,7 @@
 # Sudoku Solver
+
+![Sudoku GIF](./img/sudoku.gif)
+
 Bienvenue dans **Sudoku Solver**, un projet Python ambitieux réalisé dans le cadre de ma formation en **Bachelor Intelligence Artificielle & Data Analytics**.
 
 Ce projet propose une solution complète et interactive pour résoudre des grilles de Sudoku grâce à deux algorithmes puissants : la **Force Brute** et le **Backtracking**. Il comprend également une analyse approfondie des performances des deux approches, ainsi qu'une interface graphique dynamique réalisée avec **Pygame** pour visualiser les résultats de façon claire et intuitive.
