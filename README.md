@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-![Sudoku GIF](./img/sudoku.gif)
+<img src="./img/sudoku.gif" width="300"/>
 
 Bienvenue dans **Sudoku Solver**, un projet Python ambitieux réalisé dans le cadre de ma formation en **Bachelor Intelligence Artificielle & Data Analytics**.
 
